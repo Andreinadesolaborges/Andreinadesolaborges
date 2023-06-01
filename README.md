@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andreinadesolaborges
-- 👀 I’m interested in Frontend Developing, Design and Videogames.
-- 🌱 I’m currently learning Javascript - React
+- 👀 I’m interested in Frontend Developing, UX/UI Design and Videogames.
+- 🌱 Always learning
 - 📫 How to reach me my mail: andreinadesola@gmail.com
 
 
